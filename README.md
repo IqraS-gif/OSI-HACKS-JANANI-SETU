@@ -11,7 +11,7 @@
 <p align="center">
   📱 <a href="https://drive.google.com/drive/folders/1BFjBYui9lu1klKmx-yAdOaApr2hXAo3Z?usp=sharing">Download APK</a>
   &nbsp;|&nbsp;
-  🎥 <a href="https://youtu.be/nzaFBtRQ_1M">Watch Demo Video</a>
+  🎥 <a href="https://youtu.be/WHEuceStFCs">Watch Demo Video</a>
 </p>
 
 
