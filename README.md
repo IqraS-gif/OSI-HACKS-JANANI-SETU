@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  📱 <a href="https://drive.google.com/file/d/1-E3MzKU239mM6lea57lLsfNtqBQyCild/view?usp=sharing">Download APK</a>
+  📱 <a href="https://drive.google.com/drive/folders/1BFjBYui9lu1klKmx-yAdOaApr2hXAo3Z?usp=sharing">Download APK</a>
   &nbsp;|&nbsp;
   🎥 <a href="https://youtu.be/nzaFBtRQ_1M">Watch Demo Video</a>
 </p>
