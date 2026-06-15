@@ -98,6 +98,30 @@ Our embedded predictive models are optimized for both extreme lightweight deploy
 
 ---
 
+## 🚀 Setup Instructions
+
+### Prerequisites
+
+* Node.js
+* Expo Go App (Android/iOS)
+
+### Installation
+
+```bash
+git clone https://github.com/yourusername/janani-setu.git
+cd maa-app
+npm install
+npx expo start
+```
+
+### Run the App
+
+1. Install **Expo Go** on your mobile device.
+2. Run `npx expo start`.
+3. Scan the QR code displayed in the terminal/browser using the Expo Go app.
+4. The application will launch on your device.
+
+
 ## 💰 Business Model & Scalability
 To serve the most vulnerable populations, Janani-Setu operates on a highly frugal B2G (Business-to-Government) and B2NGO model:
 > **Our architecture ensures operational costs of less than $1 per user, per year.**
@@ -105,3 +129,20 @@ To serve the most vulnerable populations, Janani-Setu operates on a highly fruga
 - **Eliminates Cloud Costs:** By running AI and ML at the edge (on-device), we completely bypass expensive server API calls.
 - **Micro-Data Syncing:** Aggressive local data compression means cloud sync payloads are only mere kilobytes.
 - **Existing Infrastructure:** Deployed via existing ASHA worker smartphone networks, eliminating hardware rollout friction.
+
+---
+## 👥 Team Details
+
+**Janani-Setu** was conceptualized, designed, and developed independently by **Iqra Sayed**.
+
+### Developer
+
+* **Iqra Sayed**
+
+  * AI/ML Development
+  * Mobile App Development (React Native)
+  * Backend Development (FastAPI)
+  * UI/UX Design
+  * System Architecture
+  * Research & Testing
+---
