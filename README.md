@@ -1,3 +1,9 @@
+<p align="center">
+  📱 <a href="https://drive.google.com/drive/folders/1BFjBYui9lu1klKmx-yAdOaApr2hXAo3Z?usp=sharing">Download APK</a>
+  &nbsp;|&nbsp;
+  🎥 <a href="https://youtu.be/WHEuceStFCs">Watch Demo Video</a>
+</p>
+
 <h1 align="center">
   <img src="docs/assets/logo.jpeg" alt="Janani Setu Logo" width="200">
   <br>
@@ -8,11 +14,7 @@
   <em>An elegant, offline-first, AI-powered maternal health ecosystem built for rural India.</em>
 </p>
 
-<p align="center">
-  📱 <a href="https://drive.google.com/drive/folders/1BFjBYui9lu1klKmx-yAdOaApr2hXAo3Z?usp=sharing">Download APK</a>
-  &nbsp;|&nbsp;
-  🎥 <a href="https://youtu.be/WHEuceStFCs">Watch Demo Video</a>
-</p>
+
 
 
 ## 🚨 The Problem
